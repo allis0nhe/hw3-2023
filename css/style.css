@@ -171,18 +171,19 @@ div{
 footer {
     background: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
     border: 5px solid #ffffff;
-  }
+}
   
-  footer p {
+footer p {
     font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0; /* top right bottom left */
-  }
+}
   
 
 .blue h2 {
     color: #C4C4C4;
 }
+
 .blue p {
     color: #C4C4C4;
 }
