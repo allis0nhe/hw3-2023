@@ -170,6 +170,10 @@ footer{
     
 }
 
+.yellow p {
+    color: #707070;
+}
+
 .blue h2 {
     color: #C4C4C4;
 }
@@ -177,6 +181,4 @@ footer{
     color: #C4C4C4;
 }
 
-.yellow p {
-    color: #707070;
-}
+
